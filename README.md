@@ -3,4 +3,5 @@
 
 On Progress Custom Theme
 <ul>
-  <li>Meta desc on <a href="https://hokime.co/anime/">Genre Anime</a> page</li>
+  <li>Fixed -  <a href="https://hokime.co/anime/">Anime</a> page</li>
+  <li>Meta desc - <a href="https://hokime.co/genre/">Genre Anime</a>
