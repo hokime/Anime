@@ -1,3 +1,2 @@
 # Anime
-Nonton Download Anime Sub Indo
-https://hokime.co/
+<a href="https://hokime.co/">Nonton Download Anime Sub Indo</a>
